@@ -1,0 +1,34 @@
+Mean:
+Rating     4.175551e+00
+Reviews    3.022859e+05
+Size       2.186547e+07
+
+Trimmed Mean(10%):
+Rating	4.243725425950196
+Reviews	27358.249180865005
+Size	17682699.8689384
+
+Median:
+Rating            4.3
+Reviews        2294.5
+Size       13000000.0
+
+Variance:
+Rating     2.971404e-01
+Reviews    3.178956e+12
+Size       5.479604e+14
+
+Standard Deviation:
+Rating     5.451059e-01
+Reviews    1.782963e+06
+Size       2.340855e+07
+
+Mean Absolute Deviation:
+Rating     3.874344e-01
+Reviews    5.003925e+05
+Size       1.816487e+07
+
+Median Absolute Deviation:
+Rating     4.447807e-01
+Reviews    3.391453e+03
+Size       1.497428e+07
